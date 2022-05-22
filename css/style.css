@@ -1,0 +1,31 @@
+.body {
+    font: 20px arial;
+}
+
+.navbar {
+    background-color: #77E6FF;
+}
+
+.quemsomos {
+    background-color: #00f000;
+}
+
+.servicos {
+    background-color: cornflowerblue;
+}
+
+h3 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    padding-bottom: 1px;
+}
